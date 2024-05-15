@@ -9,4 +9,4 @@ For the latest updates, new features, and bug fixes, please check the **[Release
 Thank you for your interest in **Bubbles-Ai**! 🙏😊
 
 
-inspiration came from my mentor
+forked inspiration came from my mentor
