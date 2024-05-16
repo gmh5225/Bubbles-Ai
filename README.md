@@ -15,3 +15,5 @@ forked inspiration came from my mentor
 **WINDOWS PC ONLY**
 
 **WIN 10 & WIN 11**
+
+**NVIDIA GPU ONLY**
