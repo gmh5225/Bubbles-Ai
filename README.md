@@ -40,7 +40,7 @@ Please adhere to the following guidelines to ensure the application works correc
 ## 💻 Installation
 
 1. **📥 Download the Application**
-   - Refer to top of the readme.md where it says first important notice. thanks 😄
+   - Refer to top of the `readme.md` where it says first `important notice`. thanks 😄
 
 2. **📂 Extract Bubs_Launcher-Main**
    - Extract The Bubs_Launcher-Main.zip to your Desktop.
