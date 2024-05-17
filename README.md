@@ -45,8 +45,9 @@ Please adhere to the following guidelines to ensure the application works correc
 2. **📂 Extract Bubs_Launcher-Main**
    - Extract The `Bubs_Launcher-Main.zip` to your `Desktop`.
 
-3. **📂 Extract the Entire Setup .zip folder
-3.5  **READ EVERYTHING INSIDE TO AVOID ISSUES**
+3. **📂 Extract the Entire Setup .zip folder to desktop.
+
+- 3.5  **READ EVERYTHING INSIDE TO AVOID ISSUES**
 
 ## 🛠️ Usage
 
