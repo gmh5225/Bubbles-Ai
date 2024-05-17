@@ -33,7 +33,7 @@ Please adhere to the following guidelines to ensure the application works correc
    - To easily access the application, you can pin the executable to the taskbar.
    - Right-click on the `Bubs_Launcher.exe` file and select "Pin to taskbar."
 
-3. **🚫 Do Not Sell**
+3. **🚫 DISCLAIMER**
    - **This software is for educational purposes only.**
    - **NOT Responsible IF You Get Banned IN Any Games!!**
 
