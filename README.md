@@ -9,7 +9,7 @@ For the latest updates, new features, and bug fixes, please check the **[Release
 Thank you for your interest in **Bubbles-Ai**! 🙏😊
 
 
-forked inspiration came from my mentor
+forked "modified" inspiration came from my mentor
 
 
 **WINDOWS PC ONLY**
