@@ -17,3 +17,5 @@ forked inspiration came from my mentor
 **WIN 10 & WIN 11**
 
 **NVIDIA GPU ONLY**
+
+**Works In Any Game**
