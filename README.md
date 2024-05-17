@@ -62,7 +62,7 @@ Please adhere to the following guidelines to ensure the application works correc
 
 ## 📜 License
 
-This application is licensed under [your license]. Please refer to the `LICENSE` file for more details.
+This application is licensed under [[your license](https://github.com/KernFerm/Bubbles-Ai/blob/main/license)]. Please refer to the `LICENSE` file for more details.
 
 ---
 
