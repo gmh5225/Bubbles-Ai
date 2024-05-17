@@ -34,16 +34,16 @@ Please adhere to the following guidelines to ensure the application works correc
    - Right-click on the `Bubs_Launcher.exe` file and select "Pin to taskbar."
 
 3. **🚫 Do Not Sell**
-   - This software is for educational purposes only.
-   - We are not responsible if you get banned in any games!!
+   - **This software is for educational purposes only.**
+   - **NOT Responsible IF You Get Banned IN Any Games!!**
 
 ## 💻 Installation
 
 1. **📥 Download the Application**
-   - Download the application from [link or source].
+   - Refer to top of the readme.md where it says first important notice. thanks 😄
 
-2. **📂 Extract the Files**
-   - Extract all the files from the downloaded archive to a single folder.
+2. **📂 Extract Bubs_Launcher-Main**
+   - Extract The Bubs_Launcher-Main.zip to your Desktop.
 
 3. **📂 Extract the Entire Setup .zip folder
 3.5  **READ EVERYTHING INSIDE TO AVOID ISSUES**
