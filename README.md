@@ -12,13 +12,13 @@ Thank you for your interest in **Bubbles-Ai**! 🙏😊
 
 forked "modified" inspiration came from my mentor
 
-             **WINDOWS PC ONLY**
+- **WINDOWS PC ONLY**
 
-             **WIN 10 & WIN 11**
+- **WIN 10 & WIN 11**
 
-             **NVIDIA GPU ONLY**
+- **NVIDIA GPU ONLY**
 
-             **Works In Any Game**
+- **Works In Any Game**
 
 
 ## 📌 Important Notice
