@@ -2,6 +2,25 @@
 
 Welcome to **Bubs_Launcher**! This application is designed to provide a streamlined launcher for TensorRT, ONNX, and main functionalities. It also loads `config.py` from Visual Studio Code.
 
+
+## **🚨🚨 Important 🚨🚨**
+
+For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/Bubbles-Ai/releases)** section. 🆕🔧
+
+Thank you for your interest in **Bubbles-Ai**! 🙏😊
+
+
+forked "modified" inspiration came from my mentor
+
+                                       **WINDOWS PC ONLY**
+
+                                       **WIN 10 & WIN 11**
+
+                                       **NVIDIA GPU ONLY**
+
+                                      **Works In Any Game**
+
+
 ## 📌 Important Notice
 
 Please adhere to the following guidelines to ensure the application works correctly:
@@ -49,24 +68,4 @@ This application is licensed under [your license]. Please refer to the `LICENSE`
 
 Thank you for using **Bubs_Launcher**! We hope you enjoy using our software. 😊
 
-
-## KEEP READING!!!!
-
-
-## **🚨🚨 Important 🚨🚨**
-
-For the latest updates, new features, and bug fixes, please check the **[Releases](https://github.com/KernFerm/Bubbles-Ai/releases)** section. 🆕🔧
-
-Thank you for your interest in **Bubbles-Ai**! 🙏😊
-
-
-forked "modified" inspiration came from my mentor
-
-
-**WINDOWS PC ONLY**
-
-**WIN 10 & WIN 11**
-
-**NVIDIA GPU ONLY**
-
-**Works In Any Game**
+---
